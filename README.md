@@ -1,5 +1,5 @@
 # 👋 สวัสดี! I'm Tradon
-Welcome to my GitHub profile. I’m a passionate Full Stack Developer🎉
+Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently I'm interesting Go and Python, So I'm looking for new opotunity to hopping in backend Go position. 🎉
 
 ## 🎯 **About Me**
 - 🌱 Learning: Go, Python, pixel art  
