@@ -81,4 +81,7 @@ Welcome to my GitHub profile. I’m a passionate Frontend Developer And Full Sta
 ## 🌟 List of qualifying projects in 2024
 | No. | Project Name | Description |
 | :----: | :----: | :----: |
-| 1 | [CP Brandsite](https://www.cpbrandsite.com/) | A fully functional product presentation web application with auth, favorite and CMS system using Next, Nest, ApolloGQL and SQL. |
+| 1 | [CP Brandsite](https://www.cpbrandsite.com/) | A fully functional product presentation web application with auth, favorite, SEO and CMS system using Next, Nest, ApolloGQL, SQL and hexagonal structure both FE, BE. |
+| 2 | [Repository](https://github.com/ballinwza/7-solutions-tr-test) [Web]( https://tr-interview-solution.web.app/) | Mini workshop showcase of user information and playing with state management 5 second return vegetable or fruit using Next, Axios, Zustand, Firebase and hexagonal structure combine with third party API  |
+
+
