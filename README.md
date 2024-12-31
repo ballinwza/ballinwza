@@ -4,11 +4,11 @@ Welcome to my GitHub profile. I’m a passionate Full Stack Developer🎉
 ## 🎯 **About Me**
 - 🌱 Learning: Go, Python, pixel art  
 - 🔭 Working position: Fullstack Developer
-- 📫 Reach me at: [tradonurasuk@gmai.com](https://mail.google.com/mail/u/0/?fs=1&to=tradonurasuk@gmail.com&tf=cm)
+- 📫 Reach me at: [tradonurasuk@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=tradonurasuk@gmail.com&tf=cm)
 
 
 ## ⚡ **Skills & Technologies**
-#### 📘 Programming Languages
+### 📘 Programming Languages
 | Programming Languages | Point |
 | :----: | :----: |
 | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50"/></a> | 5 / 5 |
@@ -16,8 +16,8 @@ Welcome to my GitHub profile. I’m a passionate Full Stack Developer🎉
 | <a href="https://go.dev/"><img src="https://github.com/user-attachments/assets/9978030b-a29a-4168-81e0-0e9665684f6c" width="50" height="50"/></a> | 3 / 5 |
 | <a href=""><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50"/></a> | 2 / 5 |
  
-#### Frameworks & Libraries
-##### 🚪 Frontend
+### 📕 Frameworks & Libraries
+#### 🚪 Frontend
 | Frameworks & Libraries | Point |
 | :----: | :----: |
 | [React](https://react.dev/) | 5 / 5 |
@@ -32,7 +32,7 @@ Welcome to my GitHub profile. I’m a passionate Full Stack Developer🎉
 | [GSAP](https://gsap.com/) | 3 / 5 |
 | [Framer](https://www.framer.com/) | 3 / 5 |
 
-##### 📂 Backend
+#### 📂 Backend
 | Protocal | Point |
 | :----: | :----: |
 | REST | 4 / 5 |
@@ -49,14 +49,14 @@ Welcome to my GitHub profile. I’m a passionate Full Stack Developer🎉
 | [Gqlgen](https://gqlgen.com/getting-started/) |  3 / 5 |
 
 
-##### 📊 Database 
+#### 📊 Database 
 | Name | Point |
 | :----: | :----: |
 | [MySQL](https://www.mysql.com/) |  3 / 5 |
 | [MongoDB](https://www.google.com/aclk?sa=l&ai=DChcSEwjKxtLGjNKKAxWnpGYCHeeWCXEYABAAGgJzbQ&ae=2&aspm=1&co=1&ase=2&gclid=Cj0KCQiAyc67BhDSARIsAM95QztpXUTaePnbLX1tTcRWHYhQAmGX-mlld9QI9KWsdnVap4n6y6aXKd4aAiuhEALw_wcB&sig=AOD64_0D4Ka07soyW6qSJ_uQrwKLOIlIKw&q&nis=4&adurl&ved=2ahUKEwict83GjNKKAxWnVWwGHZBlEokQ0Qx6BAgKEAE) |  3 / 5 |
 | [Firebase / Firestore & RealtimeDB](https://firebase.google.com/) |  3 / 5 |
 
-##### 🧪 Testing Tools 
+#### 🧪 Testing Tools 
 | Name | Point |
 | :----: | :----: |
 | [Jest](https://jestjs.io/) | 3 / 5 |
@@ -64,7 +64,7 @@ Welcome to my GitHub profile. I’m a passionate Full Stack Developer🎉
 | [Testify](https://github.com/stretchr/testify) | 3 / 5 |
 | [Pytest](https://pytest.org/) |  2 / 5 |
 
-##### 🎯 Other Skills & Tools 
+#### 🎯 Other Skills & Tools 
 | Tools | Principle | Communication |
 | :----: | :----: | :----: |
 | [Postman](https://www.postman.com/) |  OOP | Thai Native |
@@ -80,6 +80,11 @@ Welcome to my GitHub profile. I’m a passionate Full Stack Developer🎉
 | [Postman](https://www.postman.com/) | 
 | [VS Code](https://code.visualstudio.com/) |
 | [Warp](https://www.warp.dev/) |
+
+## ✨ Contributions
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballinwza&layout=donut-vertica)](https://github.com/ballinwza/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ballinwza&show_icons=true&theme=transparent)
 
 ## 🌟 List of qualifying projects in 2024
 | No. | Project Name | Description |
