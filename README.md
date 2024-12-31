@@ -1,16 +1,13 @@
 # 👋 สวัสดี! I'm Tradon
-
-Welcome to my GitHub profile. I’m a passionate Frontend Developer And Full Stack Developer🎉
-
+Welcome to my GitHub profile. I’m a passionate Full Stack Developer🎉
 
 ## 🎯 **About Me**
-- 🌱 Learning: JavaScript, Python, React  
+- 🌱 Learning: Go, Python, pixel art  
 - 🔭 Working position: Fullstack Developer
 - 📫 Reach me at: [tradonurasuk@gmai.com](https://mail.google.com/mail/u/0/?fs=1&to=tradonurasuk@gmail.com&tf=cm)
 
 
 ## ⚡ **Skills & Technologies**
-
 #### 📘 Programming Languages
 | Programming Languages | Point |
 | :----: | :----: |
@@ -30,6 +27,10 @@ Welcome to my GitHub profile. I’m a passionate Frontend Developer And Full Sta
 | [Styled-components](https://www.styled-components.com/) | 5 / 5 |
 | [Emotion Css](https://emotion.sh/docs/introduction) |  3 / 5 |
 | [Panda Css](https://panda-css.com/) | 3 / 5 |
+| [Zustand](https://zustand-demo.pmnd.rs/) | 4 / 5 |
+| [Redux](https://redux.js.org/) | 2 / 5 |
+| [GSAP](https://gsap.com/) | 3 / 5 |
+| [Framer](https://www.framer.com/) | 3 / 5 |
 
 ##### 📂 Backend
 | Protocal | Point |
@@ -74,6 +75,8 @@ Welcome to my GitHub profile. I’m a passionate Frontend Developer And Full Sta
 | [Jira](https://www.atlassian.com/es/software/jira) | Agile Scrum  |
 | [Sourcetree](https://www.sourcetreeapp.com/) | CMD on OS, WIN
 | [Slack](https://slack.com/) | 
+| [Figma](https://www.figma.com/) |
+| [GCP Platform](https://cloud.google.com/) |
 | [Postman](https://www.postman.com/) | 
 | [VS Code](https://code.visualstudio.com/) |
 | [Warp](https://www.warp.dev/) |
@@ -82,6 +85,8 @@ Welcome to my GitHub profile. I’m a passionate Frontend Developer And Full Sta
 | No. | Project Name | Description |
 | :----: | :----: | :----: |
 | 1 | [CP Brandsite](https://www.cpbrandsite.com/) | A fully functional product presentation web application with auth, favorite, SEO and CMS system using Next, Nest, ApolloGQL, SQL and hexagonal structure both FE, BE. |
-| 2 | [Repository](https://github.com/ballinwza/7-solutions-tr-test) [Web]( https://tr-interview-solution.web.app/) | Mini workshop showcase of user information and playing with state management 5 second return vegetable or fruit using Next, Axios, Zustand, Firebase and hexagonal structure combine with third party API  |
+| 2 | [Repository](https://github.com/ballinwza/7-solutions-tr-test) / [Web]( https://tr-interview-solution.web.app/) | Mini workshop showcase of user information and playing with state management 5 second return vegetable or fruit using Next, Axios, Zustand, Firebase and hexagonal structure combine with third party API  |
+| 3 | [Web](https://praneat.com/) | Company website for introduce who we are made by Next, PadaCss, Framer, GSAP and AI Agent Builder on GCP. |
+| 4 | [Web](https://cpspacemission.cpbrandsite.com/) | Client product show case made by Next and deployed on Firebase. |
 
 
