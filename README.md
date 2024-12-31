@@ -23,6 +23,8 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 | [React](https://react.dev/) | 5 / 5 |
 | [Next](https://nextjs.org) | 5 / 5 |
 | [Bootstrap](https://getbootstrap.com/docs/5.0/about/brand/) | 5 / 5 |
+| [AntD](https://ant.design/) | 5 / 5 |
+| [MUI](https://mui.com/) | 3 / 5 |
 | [Tailwind](https://tailwindcss.com/brand) | 5 / 5 |
 | [Styled-components](https://www.styled-components.com/) | 5 / 5 |
 | [Emotion Css](https://emotion.sh/docs/introduction) |  3 / 5 |
@@ -89,7 +91,7 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 ## 🌟 List of qualifying projects
 | Year | Project Name | Description |
 | :----: | :----: | :----: |
-| 2024 | [CP Brandsite](https://www.cpbrandsite.com/) | A fully functional product presentation web application with auth, favorite, SEO and CMS system using Next, Nest, ApolloGQL, SQL and hexagonal structure both FE, BE. |
+| 2024 | [CP Brandsite](https://www.cpbrandsite.com/) | A fully functional product presentation web application with auth, favorite, SEO and CMS system using Next, AntD, Nest, ApolloGQL, SQL and hexagonal structure both FE, BE. |
 | 2024 | [Repository](https://github.com/ballinwza/7-solutions-tr-test) / [Showcase]( https://tr-interview-solution.web.app/) | Mini workshop showcase of user information and playing with state management 5 second return vegetable or fruit using Next, Axios, Zustand, Firebase and hexagonal structure combine with third party API  |
 | 2024 | [Praneat](https://praneat.com/) | Company website for introduce who we are made by Next, PadaCss, Framer, GSAP and AI Agent Builder on GCP. |
 | 2024 | [CP Spacemission](https://cpspacemission.cpbrandsite.com/) | Client product show case made by Next and deployed on Firebase. |
