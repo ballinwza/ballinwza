@@ -11,10 +11,10 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 ### 📘 Programming Languages
 | Programming Languages | Point |
 | :----: | :----: |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50"/></a> | 5 / 5 |
-| <a href="https://www.typescriptlang.org/"><img src="https://github.com/user-attachments/assets/ab971058-b796-43d0-98b8-ec48fa862ff3" alt="TypeScript Logo" width="30" height="30"></a> | 5 / 5 |
-| <a href="https://go.dev/"><img src="https://github.com/user-attachments/assets/9978030b-a29a-4168-81e0-0e9665684f6c" width="50" height="50"/></a> | 3 / 5 |
-| <a href=""><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50"/></a> | 2 / 5 |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50"/></a> | 5 / 5 |
+| <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/user-attachments/assets/ab971058-b796-43d0-98b8-ec48fa862ff3" alt="TypeScript Logo" width="30" height="30"></a> | 5 / 5 |
+| <a href="https://go.dev/" target="_blank"><img src="https://github.com/user-attachments/assets/9978030b-a29a-4168-81e0-0e9665684f6c" width="50" height="50"/></a> | 3 / 5 |
+| <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50"/></a> | 2 / 5 |
  
 ### 📕 Frameworks & Libraries
 #### 🚪 Frontend
