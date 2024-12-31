@@ -82,16 +82,18 @@ Welcome to my GitHub profile. I’m a passionate Full Stack Developer🎉
 | [Warp](https://www.warp.dev/) |
 
 ## ✨ Contributions
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballinwza&layout=donut-vertica)](https://github.com/ballinwza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballinwza&layout=donut-vertical)](https://github.com/ballinwza/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ballinwza&show_icons=true&theme=transparent)
 
-## 🌟 List of qualifying projects in 2024
-| No. | Project Name | Description |
+## 🌟 List of qualifying projects
+| Year | Project Name | Description |
 | :----: | :----: | :----: |
-| 1 | [CP Brandsite](https://www.cpbrandsite.com/) | A fully functional product presentation web application with auth, favorite, SEO and CMS system using Next, Nest, ApolloGQL, SQL and hexagonal structure both FE, BE. |
-| 2 | [Repository](https://github.com/ballinwza/7-solutions-tr-test) / [Web]( https://tr-interview-solution.web.app/) | Mini workshop showcase of user information and playing with state management 5 second return vegetable or fruit using Next, Axios, Zustand, Firebase and hexagonal structure combine with third party API  |
-| 3 | [Web](https://praneat.com/) | Company website for introduce who we are made by Next, PadaCss, Framer, GSAP and AI Agent Builder on GCP. |
-| 4 | [Web](https://cpspacemission.cpbrandsite.com/) | Client product show case made by Next and deployed on Firebase. |
+| 2024 | [CP Brandsite](https://www.cpbrandsite.com/) | A fully functional product presentation web application with auth, favorite, SEO and CMS system using Next, Nest, ApolloGQL, SQL and hexagonal structure both FE, BE. |
+| 2024 | [Repository](https://github.com/ballinwza/7-solutions-tr-test) / [Showcase]( https://tr-interview-solution.web.app/) | Mini workshop showcase of user information and playing with state management 5 second return vegetable or fruit using Next, Axios, Zustand, Firebase and hexagonal structure combine with third party API  |
+| 2024 | [Praneat](https://praneat.com/) | Company website for introduce who we are made by Next, PadaCss, Framer, GSAP and AI Agent Builder on GCP. |
+| 2024 | [CP Spacemission](https://cpspacemission.cpbrandsite.com/) | Client product show case made by Next and deployed on Firebase. |
+| 2024 | [ARDTech](http://www.ardtech.co.th//) | Client product show case made by Next and deployed on Firebase. |
+
 
 
