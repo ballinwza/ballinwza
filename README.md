@@ -72,10 +72,11 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 | [Postman](https://www.postman.com/) |  OOP | Thai Native |
 | [Github](https://github.com/) |  MVC | English able to read and communication at moderate lv |
 | [GitLab](https://about.gitlab.com/) | Hexagonal Architectur | Be able to work with team
-| [Git flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) |  SDLC | Adaptable to everyone
-| [Git-cz](https://www.npmjs.com/package/git-cz) |  CMS  | Working under pressure and timeline
-| [Jira](https://www.atlassian.com/es/software/jira) | Agile Scrum  |
-| [Sourcetree](https://www.sourcetreeapp.com/) | CMD on OS, WIN
+| [Bitbucket](https://bitbucket.org/product) | SDLC | Adaptable to everyone
+| [Git flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) |  CMS  | Working under pressure and timeline
+| [Git-cz](https://www.npmjs.com/package/git-cz) | Agile Scrum  |
+| [Jira](https://www.atlassian.com/es/software/jira) | CMD on OS, WIN
+| [Sourcetree](https://www.sourcetreeapp.com/) |
 | [Slack](https://slack.com/) | 
 | [Figma](https://www.figma.com/) |
 | [GCP Platform](https://cloud.google.com/) |
