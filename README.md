@@ -64,7 +64,6 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 | [Jest](https://jestjs.io/) | 3 / 5 |
 | [Cypress](https://www.cypress.io/) | 3 / 5 |
 | [Testify](https://github.com/stretchr/testify) | 3 / 5 |
-| [Pytest](https://pytest.org/) |  2 / 5 |
 
 #### 🎯 Other Skills & Tools 
 | Tools | Principle | Communication |
@@ -92,11 +91,12 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 ## 🌟 List of qualifying projects
 | Year | Project Name | Description |
 | :----: | :----: | :----: |
+| 2024 | [Lotto & Movie API by GO]([http://www.ardtech.co.th/](https://tr-profile-go-web-server.onrender.com)) / [Repository](https://github.com/ballinwza/tr-profile-go-web-server)| API workshop using GO, Colly+Goquery web scrapper, Swagger open api doc and MongoDB. |
 | 2024 | [CP Brandsite](https://www.cpbrandsite.com/) | A fully functional product presentation web application with auth, favorite, SEO and CMS system using Next, AntD, Nest, ApolloGQL, SQL and hexagonal structure both FE, BE. |
 | 2024 | [Repository](https://github.com/ballinwza/7-solutions-tr-test) / [Showcase]( https://tr-interview-solution.web.app/) | Mini workshop showcase of user information and playing with state management 5 second return vegetable or fruit using Next, Axios, Zustand, Firebase and hexagonal structure combine with third party API  |
 | 2024 | [Praneat](https://praneat.com/) | Company website for introduce who we are made by Next, PadaCss, Framer, GSAP and AI Agent Builder on GCP. |
 | 2024 | [CP Spacemission](https://cpspacemission.cpbrandsite.com/) | Client product show case made by Next and deployed on Firebase. |
-| 2024 | [ARDTech](http://www.ardtech.co.th//) | Client product show case made by Next and deployed on Firebase. |
+| 2024 | [ARDTech](http://www.ardtech.co.th/) | Client product show case made by Next and deployed on Firebase. |
 
 
 
