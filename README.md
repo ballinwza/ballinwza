@@ -85,7 +85,7 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 | [Warp](https://www.warp.dev/) |
 
 ## ✨ Contributions
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballinwza&layout=donut-vertical)](https://github.com/ballinwza/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ballinwza&show_icons=true&theme=transparent)
 
