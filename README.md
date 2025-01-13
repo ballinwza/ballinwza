@@ -64,6 +64,7 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 | [Jest](https://jestjs.io/) | 3 / 5 |
 | [Cypress](https://www.cypress.io/) | 3 / 5 |
 | [Testify](https://github.com/stretchr/testify) | 3 / 5 |
+| [RobotFramwork SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Open%20Browser) | 3 / 5 |
 
 #### 🎯 Other Skills & Tools 
 | Tools | Principle | Communication |
