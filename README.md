@@ -80,9 +80,7 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 | [Slack](https://slack.com/) | 
 | [Figma](https://www.figma.com/) |
 | [GCP Platform](https://cloud.google.com/) |
-| [Postman](https://www.postman.com/) | 
-| [VS Code](https://code.visualstudio.com/) |
-| [Warp](https://www.warp.dev/) |
+| [Docker](https://www.docker.com/) |
 
 ## ✨ Contributions
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballinwza&layout=donut-vertical)](https://github.com/ballinwza/github-readme-stats)
@@ -92,6 +90,7 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 ## 🌟 List of qualifying projects
 | Year | Project Name | Description |
 | :----: | :----: | :----: |
+| 2025 | [Web Board FE](https://tr-workshop-fe-02.vercel.app/blogs) / [Repository](https://github.com/ballinwza/tr-workshop-fe-02) + (Backend RESTApi NestJS)[https://tr-workshop-be-01.onrender.com/] / (Repository)[https://github.com/ballinwza/tr-workshop-be-01] | Fullstack web application made by Next/Nest RESTApi included authorization, CRUD feature and Docker. Have to asking me for username before test!.
 | 2025 | [Lotto & Movie API by GO](https://tr-profile-go-web-server.onrender.com/swagger/index.html) / [Repository](https://github.com/ballinwza/tr-profile-go-web-server)| API workshop using GO, Colly+Goquery web scrapper, Swagger open api doc and MongoDB. |
 | 2024 | [CP Brandsite](https://www.cpbrandsite.com/) | A fully functional product presentation web application with auth, favorite, SEO and CMS system using Next, AntD, Nest, ApolloGQL, SQL and hexagonal structure both FE, BE. |
 | 2024 | [Repository](https://github.com/ballinwza/7-solutions-tr-test) / [Showcase]( https://tr-interview-solution.web.app/) | Mini workshop showcase of user information and playing with state management 5 second return vegetable or fruit using Next, Axios, Zustand, Firebase and hexagonal structure combine with third party API  |
