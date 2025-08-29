@@ -18,18 +18,21 @@ Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently 
 | Frontend | Backend | 
 | :----: | :----: |
 | [React](https://react.dev/) | RESTful API |
-| [Next](https://nextjs.org) | [Graphql](https://graphql.org/) |
-| [Bootstrap](https://getbootstrap.com/docs/5.0/about/brand/) | [NestJs](https://nestjs.com/) |
-| [AntD](https://ant.design/) | [Express](https://expressjs.com/) |
-| [MUI](https://mui.com/) | [Apollo GraphQL](https://www.apollographql.com/) |
-| [Tailwind](https://tailwindcss.com/brand) | [Fiber](https://docs.gofiber.io/) |
-| [Styled-components](https://www.styled-components.com/) | [Echo](https://echo.labstack.com/) |
-| [Emotion Css](https://emotion.sh/docs/introduction) |  [Gin](https://gin-gonic.com/) |
-| [Panda Css](https://panda-css.com/) | [Gqlgen](https://gqlgen.com/getting-started/) |
-| [Zustand](https://zustand-demo.pmnd.rs/) | [MySQL](https://www.mysql.com/) |
-| [Redux](https://redux.js.org/) | [MongoDB](https://www.google.com/aclk?sa=l&ai=DChcSEwjKxtLGjNKKAxWnpGYCHeeWCXEYABAAGgJzbQ&ae=2&aspm=1&co=1&ase=2&gclid=Cj0KCQiAyc67BhDSARIsAM95QztpXUTaePnbLX1tTcRWHYhQAmGX-mlld9QI9KWsdnVap4n6y6aXKd4aAiuhEALw_wcB&sig=AOD64_0D4Ka07soyW6qSJ_uQrwKLOIlIKw&q&nis=4&adurl&ved=2ahUKEwict83GjNKKAxWnVWwGHZBlEokQ0Qx6BAgKEAE) |
-| [GSAP](https://gsap.com/) | [Firebase / Firestore & RealtimeDB](https://firebase.google.com/) |
-| [Framer](https://www.framer.com/) | Websocket
+| [Next](https://nextjs.org) | Websocket |
+| [Bootstrap](https://getbootstrap.com/docs/5.0/about/brand/) | [Graphql](https://graphql.org/)|
+| [AntD](https://ant.design/) | [NestJs](https://nestjs.com/)  |
+| [MUI](https://mui.com/) | [Express](https://expressjs.com/) |
+| [Tailwind](https://tailwindcss.com/brand) | [Apollo GraphQL](https://www.apollographql.com/) |
+| [Styled-components](https://www.styled-components.com/) | [Fiber](https://docs.gofiber.io/) |
+| [Emotion Css](https://emotion.sh/docs/introduction) |  [Echo](https://echo.labstack.com/) |
+| [Panda Css](https://panda-css.com/) | [Gin](https://gin-gonic.com/) |
+| [Zustand](https://zustand-demo.pmnd.rs/) | [Gqlgen](https://gqlgen.com/getting-started/) |
+| [Redux](https://redux.js.org/) | [MySQL](https://www.mysql.com/) |
+| [GSAP](https://gsap.com/) | [MongoDB](https://www.google.com/aclk?sa=l&ai=DChcSEwjKxtLGjNKKAxWnpGYCHeeWCXEYABAAGgJzbQ&ae=2&aspm=1&co=1&ase=2&gclid=Cj0KCQiAyc67BhDSARIsAM95QztpXUTaePnbLX1tTcRWHYhQAmGX-mlld9QI9KWsdnVap4n6y6aXKd4aAiuhEALw_wcB&sig=AOD64_0D4Ka07soyW6qSJ_uQrwKLOIlIKw&q&nis=4&adurl&ved=2ahUKEwict83GjNKKAxWnVWwGHZBlEokQ0Qx6BAgKEAE) |
+| [Framer](https://www.framer.com/) | [Firebase / Firestore & RealtimeDB](https://firebase.google.com/) |
+| [Shadcn](https://ui.shadcn.com/) |
+| [CLSX](https://www.npmjs.com/package/clsx) |
+| [Tanstack](https://tanstack.com/) | 
 
 
 #### 🧪 Tools 
