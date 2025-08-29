@@ -2,85 +2,52 @@
 Welcome to my GitHub profile. I’m a passionate FullStack Developer. Currently I'm interesting Go and Python, So I'm looking for new opotunity to hopping in backend Go position. 🎉
 
 ## 🎯 **About Me**
-- 🌱 Learning: Go, Python, pixel art  
 - 🔭 Working position: Fullstack Developer
 - 📫 Reach me at: [tradonurasuk@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=tradonurasuk@gmail.com&tf=cm)
 
 
 ## ⚡ **Skills & Technologies**
 ### 📘 Programming Languages
-| Programming Languages | Point |
-| :----: | :----: |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50"/></a> | 5 / 5 |
-| <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/user-attachments/assets/ab971058-b796-43d0-98b8-ec48fa862ff3" alt="TypeScript Logo" width="30" height="30"></a> | 5 / 5 |
-| <a href="https://go.dev/" target="_blank"><img src="https://github.com/user-attachments/assets/9978030b-a29a-4168-81e0-0e9665684f6c" width="50" height="50"/></a> | 3 / 5 |
-| <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50"/></a> | 2 / 5 |
+| Programming Languages |
+| :----: |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50"/></a> |
+| <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/user-attachments/assets/ab971058-b796-43d0-98b8-ec48fa862ff3" alt="TypeScript Logo" width="30" height="30"></a> |
+| <a href="https://go.dev/" target="_blank"><img src="https://github.com/user-attachments/assets/9978030b-a29a-4168-81e0-0e9665684f6c" width="50" height="50"/></a> |
  
-### 📕 Frameworks & Libraries
-#### 🚪 Frontend
-| Frameworks & Libraries | Point |
+### 📕 Skills
+| Frontend | Backend | 
 | :----: | :----: |
-| [React](https://react.dev/) | 5 / 5 |
-| [Next](https://nextjs.org) | 5 / 5 |
-| [Bootstrap](https://getbootstrap.com/docs/5.0/about/brand/) | 5 / 5 |
-| [AntD](https://ant.design/) | 5 / 5 |
-| [MUI](https://mui.com/) | 3 / 5 |
-| [Tailwind](https://tailwindcss.com/brand) | 5 / 5 |
-| [Styled-components](https://www.styled-components.com/) | 5 / 5 |
-| [Emotion Css](https://emotion.sh/docs/introduction) |  3 / 5 |
-| [Panda Css](https://panda-css.com/) | 3 / 5 |
-| [Zustand](https://zustand-demo.pmnd.rs/) | 4 / 5 |
-| [Redux](https://redux.js.org/) | 2 / 5 |
-| [GSAP](https://gsap.com/) | 3 / 5 |
-| [Framer](https://www.framer.com/) | 3 / 5 |
-
-#### 📂 Backend
-| Protocal | Point |
-| :----: | :----: |
-| REST | 4 / 5 |
-| [Graphql](https://graphql.org/) | 3 / 5 |
-
-| Frameworks | Point |
-| :----: | :----: |
-| [NestJs](https://nestjs.com/) |  3 / 5 |
-| [Express](https://expressjs.com/) |  3 / 5 |
-| [Apollo GraphQL](https://www.apollographql.com/) |  2 / 5 |
-| [Fiber](https://docs.gofiber.io/) | 4 / 5 |
-| [Echo](https://echo.labstack.com/) | 3 / 5 |
-| [Gin](https://gin-gonic.com/) | 2 / 5 |
-| [Gqlgen](https://gqlgen.com/getting-started/) |  3 / 5 |
+| [React](https://react.dev/) | RESTful API |
+| [Next](https://nextjs.org) | [Graphql](https://graphql.org/) |
+| [Bootstrap](https://getbootstrap.com/docs/5.0/about/brand/) | [NestJs](https://nestjs.com/) |
+| [AntD](https://ant.design/) | [Express](https://expressjs.com/) |
+| [MUI](https://mui.com/) | [Apollo GraphQL](https://www.apollographql.com/) |
+| [Tailwind](https://tailwindcss.com/brand) | [Fiber](https://docs.gofiber.io/) |
+| [Styled-components](https://www.styled-components.com/) | [Echo](https://echo.labstack.com/) |
+| [Emotion Css](https://emotion.sh/docs/introduction) |  [Gin](https://gin-gonic.com/) |
+| [Panda Css](https://panda-css.com/) | [Gqlgen](https://gqlgen.com/getting-started/) |
+| [Zustand](https://zustand-demo.pmnd.rs/) | [MySQL](https://www.mysql.com/) |
+| [Redux](https://redux.js.org/) | [MongoDB](https://www.google.com/aclk?sa=l&ai=DChcSEwjKxtLGjNKKAxWnpGYCHeeWCXEYABAAGgJzbQ&ae=2&aspm=1&co=1&ase=2&gclid=Cj0KCQiAyc67BhDSARIsAM95QztpXUTaePnbLX1tTcRWHYhQAmGX-mlld9QI9KWsdnVap4n6y6aXKd4aAiuhEALw_wcB&sig=AOD64_0D4Ka07soyW6qSJ_uQrwKLOIlIKw&q&nis=4&adurl&ved=2ahUKEwict83GjNKKAxWnVWwGHZBlEokQ0Qx6BAgKEAE) |
+| [GSAP](https://gsap.com/) | [Firebase / Firestore & RealtimeDB](https://firebase.google.com/) |
+| [Framer](https://www.framer.com/) | Websocket
 
 
-#### 📊 Database 
-| Name | Point |
-| :----: | :----: |
-| [MySQL](https://www.mysql.com/) |  3 / 5 |
-| [MongoDB](https://www.google.com/aclk?sa=l&ai=DChcSEwjKxtLGjNKKAxWnpGYCHeeWCXEYABAAGgJzbQ&ae=2&aspm=1&co=1&ase=2&gclid=Cj0KCQiAyc67BhDSARIsAM95QztpXUTaePnbLX1tTcRWHYhQAmGX-mlld9QI9KWsdnVap4n6y6aXKd4aAiuhEALw_wcB&sig=AOD64_0D4Ka07soyW6qSJ_uQrwKLOIlIKw&q&nis=4&adurl&ved=2ahUKEwict83GjNKKAxWnVWwGHZBlEokQ0Qx6BAgKEAE) |  3 / 5 |
-| [Firebase / Firestore & RealtimeDB](https://firebase.google.com/) |  3 / 5 |
-
-#### 🧪 Testing Tools 
-| Name | Point |
-| :----: | :----: |
-| [Jest](https://jestjs.io/) | 3 / 5 |
-| [Cypress](https://www.cypress.io/) | 3 / 5 |
-| [Testify](https://github.com/stretchr/testify) | 3 / 5 |
-| [RobotFramwork SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Open%20Browser) | 3 / 5 |
-
-#### 🎯 Other Skills & Tools 
-| Tools | Principle | Communication |
+#### 🧪 Tools 
+| Other | Test | MessageBroker
 | :----: | :----: | :----: |
-| [Postman](https://www.postman.com/) |  OOP | Thai Native |
-| [Github](https://github.com/) |  MVC | English able to read and communication at moderate lv |
-| [GitLab](https://about.gitlab.com/) | Hexagonal Architectur | Be able to work with team
-| [Bitbucket](https://bitbucket.org/product) | SDLC | Adaptable to everyone
-| [Git flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) |  CMS  | Working under pressure and timeline
-| [Git-cz](https://www.npmjs.com/package/git-cz) | Agile Scrum  |
-| [Jira](https://www.atlassian.com/es/software/jira) | CMD on OS, WIN
+| [Postman](https://www.postman.com/) | [Jest](https://jestjs.io/) | [Redis](https://redis.io/) |
+| [Github](https://github.com/) | [Cypress](https://www.cypress.io/) | [RabbitMq](https://www.rabbitmq.com/) |
+| [GitLab](https://about.gitlab.com/) | [Testify](https://github.com/stretchr/testify) | [Kafka](https://kafka.apache.org/) |
+| [Bitbucket](https://bitbucket.org/product) | [RobotFramwork SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Open%20Browser) |
+| [Git flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) |
+| [Git-cz](https://www.npmjs.com/package/git-cz) |
+| [Jira](https://www.atlassian.com/es/software/jira) |
 | [Sourcetree](https://www.sourcetreeapp.com/) |
 | [Slack](https://slack.com/) | 
 | [Figma](https://www.figma.com/) |
 | [GCP Platform](https://cloud.google.com/) |
 | [Docker](https://www.docker.com/) |
+
 
 ## ✨ Contributions
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballinwza&layout=donut-vertical)](https://github.com/ballinwza/github-readme-stats)
