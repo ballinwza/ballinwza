@@ -2,7 +2,7 @@
 
 ### 🤖 Dev in Bangkok, Thailand
 
-Generative AI & RAG Specialist with (4+ yrs) of Full-Stack Engineering experience, currently pursuing an M.S. in Data Science. Combines strong software engineering fundamentals with expertise in LLMs, Vector Databases, and backend architecture. Demonstrated capability in delivering end-to-end AI applications, including an enterprise-ready RAG system. Eager to bring a comprehensive engineering mindset and modern AI skill set to a AI Engineer position.
+4+ yrs of Full-Stack Engineering experience, currently pursuing an M.S. in Data Science. Combines strong software engineering fundamentals with expertise in LLMs, Vector Databases, and backend architecture. Demonstrated capability in delivering end-to-end AI applications, including an enterprise-ready RAG system. Eager to bring a comprehensive engineering mindset and modern AI skill set to a AI Engineer position.
 
 ### 🛠 Tech Stack & Tools
 
