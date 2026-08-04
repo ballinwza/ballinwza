@@ -16,7 +16,7 @@ Driven M.S. Data Science student specializing in Generative AI and RAG architect
 
 * **Languages:** Python | Go | Javascript & Typescript | R | PHP
 
-#### AI * ML
+#### AI & ML
 * **AI / ML Frameworks:** PyTorch | TensorFlow | Hugging Face | Ollama | LangChain 
 * **Data & Analytics:** Pandas | NumPy | Scikit-Learn | Matplotlib
 
