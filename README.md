@@ -2,15 +2,7 @@
 
 ### 🤖 Dev in Bangkok, Thailand
 
-Driven M.S. Data Science student specializing in Generative AI and RAG architectures. Proven ability to build functional AI software, showcased by a working enterprise RAG engine project. Seeking a Junior AI Engineer role to apply Python, Vector Search, and backend skills to solve real-world challenges as a AI Engineer, However I also have 4 years experiance in Fullstack position.
-
----
-
-### 🚀 What I'm Working On
-* 🤖 **Generative AI & LLMs:** Fine-tuning open-source models, RAG (Retrieval-Augmented Generation), and AI Agent frameworks.
-* ⚡ **MLOps & Infrastructure:** Building automated pipelines, deploying models on cloud platforms (GCP), and optimizing inference speed.
-
----
+Generative AI & RAG Specialist with (4+ yrs) of Full-Stack Engineering experience, currently pursuing an M.S. in Data Science. Combines strong software engineering fundamentals with expertise in LLMs, Vector Databases, and backend architecture. Demonstrated capability in delivering end-to-end AI applications, including an enterprise-ready RAG system. Eager to bring a comprehensive engineering mindset and modern AI skill set to a AI Engineer position.
 
 ### 🛠 Tech Stack & Tools
 
